@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375251415661",
+    "project_id": "unibloodapp",
+    "storage_bucket": "unibloodapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375251415661:android:cd91625ba614e099d7c564",
+        "android_client_info": {
+          "package_name": "com.example.blood_doner_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKhil2CUeCpRJJVc5QLEZ0LBpz6u4c4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
